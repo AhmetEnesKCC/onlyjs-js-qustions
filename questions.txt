@@ -1,0 +1,16 @@
+1. Bir dizideki en büyük sayıyı bulun.
+2. Bir dizideki en küçük sayıyı bulun.
+3. Bir dizideki tüm sayıların toplamını hesaplayın.
+4. Bir dizideki tüm sayıların ortalamasını hesaplayın.
+5. Bir dizideki belirli bir sayının kaç kez tekrarlandığını bulun.
+6. Bir diziyi tersine çevirin.
+7. Bir dizideki çift sayıları bulun.
+8. Bir dizideki tek sayıları bulun.
+9. Bir dizideki belirli bir sayının olup olmadığını kontrol edin.
+10. Bir dizideki tüm sayıların karesini alın ve yeni bir dizi oluşturun.
+
+11. Bir dizideki pozitif ve negatif sayıların toplamını ayrı ayrı hesaplayın.
+12. Bir dizideki çift ve tek sayıların toplamını ayrı ayrı hesaplayın.
+13. Bir dizideki pozitif sayıların ortalamasını hesaplayın.
+14. Bir dizideki negatif sayıların ortalamasını hesaplayın.
+15. Bir dizideki belirli bir sayının dizinin ilk yarısında mı yoksa ikinci yarısında mı olduğunu kontrol edin.
